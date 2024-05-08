@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/dao/BookDAO.java=UTF-8
+encoding//src/dao/CustomerDAO.java=UTF-8
+encoding//src/test/TestBookDAO.java=UTF-8
+encoding//src/test/TestCustomerDAO.java=UTF-8
